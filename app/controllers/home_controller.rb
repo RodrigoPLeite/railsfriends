@@ -4,6 +4,5 @@ class HomeController < ApplicationController
 
   def about
     @about_me = "Meu nome é Rodrigo Leite"
-    @resposta = 2 + 2
   end
 end
