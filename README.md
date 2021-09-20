@@ -1,24 +1,4 @@
-# README
+# App Lista de Amigos
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Meu nome é Rodrigo Leite e estou codando em Ruby on Rails.
+Já fiz sistemas em Java também...
